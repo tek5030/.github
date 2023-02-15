@@ -5,6 +5,9 @@
 - [ ] Prosjektnavn i CMakeLists.txt
 - [ ] Filnavn på oppgaver
 - [ ] Tittel på visualiseringsvinduer
+- [ ] Teste på egen laptop
+- [ ] Teste på jetson
+- [ ] Teste på mac
 
 ## README
 
