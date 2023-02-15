@@ -1,0 +1,6 @@
+- [ ] "About" på GitHub-sidene
+- [ ] README
+   - [ ] Sørg for at hvordan clone og sette opp repo med conan er i README
+- [ ] Prosjektnavn i CMakeLists.txt
+- [ ] Filnavn på oppgaver
+- [ ] Tittel på visualiseringsvinduer
