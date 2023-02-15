@@ -1,0 +1,7 @@
+- [ ] "About" på GitHub-sidene
+- [ ] Lab guide
+- [ ] Prosjektnavn i CMakeLists.txt
+- [ ] Filnavn på oppgaver
+- [ ] Tittel på visualiseringsvinduer
+- [ ] Sørg for at hvordan clone og sette opp repo med conan er i README
+- [ ] Eventuelle nye screenshots fra VirtualBox
