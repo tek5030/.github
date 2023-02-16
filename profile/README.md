@@ -6,11 +6,10 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 
 ### Lectures and labs, spring 2023
 
-1. [Introduction][introduction] - [[cpp][intro-lab], [py][intro-lab]]
-1. [Image formation][image-formation] - [[cpp][formation-lab], [py][formation-lab]]
-1. [Image processing][image-processing] - [[cpp][processing-cpp], [py][processing-py]]
-1. [Image analysis][image-analysis] - [[cpp][analysis-cpp], [py][analysis-py]]
-
+- [Week 1: Introduction][introduction] ([cpp][intro-lab], [py][intro-lab])
+- [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
+- [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
+- [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
