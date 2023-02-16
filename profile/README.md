@@ -1,16 +1,29 @@
-## TEK5030 - Computer vision
-A computer vision course at ITS/UiO
+## TEK5030
+Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course at ITS/UiO
 
 - Course pages: https://www.uio.no/studier/emner/matnat/its/TEK5030/index-eng.html
 - Resource pages: https://tek5030.github.io/
 
 ### Lectures and labs, spring 2023
 
-- [Week 1: Introduction](https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html)
-- [Week 2: Image formation](https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/02-image-formation/index.html)
-- [Week 3: Image processing](https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/03-image-processing/index.html)
-- [Week 4: Image analysis](https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/04-image-analysis/index.html)
+1. [Introduction][introduction] - [[cpp][intro-lab], [py][intro-lab]]
+1. [Image formation][image-formation] - [[cpp][formation-lab], [py][formation-lab]]
+1. [Image processing][image-processing] - [[cpp][processing-cpp], [py][processing-py]]
+1. [Image analysis][image-analysis] - [[cpp][analysis-cpp], [py][analysis-py]]
 
+
+
+[introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
+[image-formation]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/02-image-formation/index.html
+[image-processing]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/03-image-processing/index.html
+[image-analysis]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/04-image-analysis/index.html
+
+[intro-lab]: https://github.com/tek5030/lab-intro
+[formation-lab]: https://github.com/tek5030/lab-transformations
+[processing-cpp]: https://github.com/tek5030/lab-image-blending
+[processing-py]: https://github.com/tek5030/lab-image-blending-py
+[analysis-cpp]: https://github.com/tek5030/lab-segmentation
+[analysis-py]: https://github.com/tek5030/lab-segmentation-py
 
 <!--
 ## Hi there 👋
