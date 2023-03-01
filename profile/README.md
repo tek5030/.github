@@ -10,12 +10,16 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
 - [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
+- [Week 5: Deep learning][deep-learning] ([common][deep-learning-lab])
+- [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
 [image-formation]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/02-image-formation/index.html
 [image-processing]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/03-image-processing/index.html
 [image-analysis]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/04-image-analysis/index.html
+[deep-learning]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/05-deep-learning/index.html
+[feature-detection]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/06-feature-detection/index.html
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
@@ -23,6 +27,9 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [processing-py]: https://github.com/tek5030/lab-image-blending-py
 [analysis-cpp]: https://github.com/tek5030/lab-segmentation
 [analysis-py]: https://github.com/tek5030/lab-segmentation-py
+[deep-learning-lab]: https://github.com/sigmunjr/TEK5030_deep_learning_torch
+[features-cpp]: https://github.com/tek5030/lab-corners
+[features-py]: https://github.com/tek5030/lab-corners-py
 
 <!--
 ## Hi there 👋
