@@ -12,6 +12,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 - [Week 5: Deep learning][deep-learning] ([common][deep-learning-lab])
 - [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
+- [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
@@ -20,6 +21,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [image-analysis]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/04-image-analysis/index.html
 [deep-learning]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/05-deep-learning/index.html
 [feature-detection]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/06-feature-detection/index.html
+[feature-matching]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/07-feature-matching/index.html
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
@@ -30,6 +32,8 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [deep-learning-lab]: https://github.com/sigmunjr/TEK5030_deep_learning_torch
 [features-cpp]: https://github.com/tek5030/lab-corners
 [features-py]: https://github.com/tek5030/lab-corners-py
+[matching-cpp]: https://github.com/tek5030/lab-mosaic
+[matching-py]: https://github.com/tek5030/lab-mosaic-py
 
 <!--
 ## Hi there 👋
