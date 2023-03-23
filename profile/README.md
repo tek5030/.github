@@ -14,6 +14,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
 - [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
+- [Week 9: Week 9 - Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
@@ -24,6 +25,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [feature-detection]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/06-feature-detection/index.html
 [feature-matching]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/07-feature-matching/index.html
 [pose-in-practice]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/08-3d-pose-and-lie-theory-in-practice/index.html
+[single-view-geometry]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/09-single-view-geometry/
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
@@ -38,6 +40,8 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [matching-py]: https://github.com/tek5030/lab-mosaic-py
 [pose-cpp]: https://github.com/tek5030/lab-camera-pose
 [pose-py]: https://github.com/tek5030/lab-camera-pose-py
+[single-view-cpp]: https://github.com/tek5030/lab-pose-estimation
+[single-view-py]: https://github.com/tek5030/lab-pose-estimation-py
 
 <!--
 ## Hi there 👋
