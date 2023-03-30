@@ -43,8 +43,8 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [pose-py]: https://github.com/tek5030/lab-camera-pose-py
 [single-view-cpp]: https://github.com/tek5030/lab-pose-estimation
 [single-view-py]: https://github.com/tek5030/lab-pose-estimation-py
-[stereo-cpp]: https://github.com/tek5030/lab-pose-estimation
-[stereo-py]: https://github.com/tek5030/lab-pose-estimation-py
+[stereo-cpp]: https://github.com/tek5030/lab-stereo
+[stereo-py]: https://github.com/tek5030/lab-stereo-py
 
 <!--
 ## Hi there 👋
