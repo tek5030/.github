@@ -15,6 +15,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
 - [Week 9: Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
+- Week 10: Stereo imaging ([cpp][stereo-cpp], [py][stereo-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
@@ -42,6 +43,8 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [pose-py]: https://github.com/tek5030/lab-camera-pose-py
 [single-view-cpp]: https://github.com/tek5030/lab-pose-estimation
 [single-view-py]: https://github.com/tek5030/lab-pose-estimation-py
+[stereo-cpp]: https://github.com/tek5030/lab-pose-estimation
+[stereo-py]: https://github.com/tek5030/lab-pose-estimation-py
 
 <!--
 ## Hi there 👋
