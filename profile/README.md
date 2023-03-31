@@ -15,7 +15,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
 - [Week 9: Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
-- Week 10: Stereo imaging ([cpp][stereo-cpp], [py][stereo-py])
+- [Week 10: Stereo imaging][stereo-imaging]([cpp][stereo-cpp], [py][stereo-py])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
@@ -27,6 +27,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [feature-matching]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/07-feature-matching/index.html
 [pose-in-practice]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/08-3d-pose-and-lie-theory-in-practice/index.html
 [single-view-geometry]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/09-single-view-geometry/
+[stereo-imaging]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/10-stereo-imaging/
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
