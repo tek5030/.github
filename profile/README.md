@@ -17,6 +17,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 9: Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
 - [Week 10: Stereo imaging][stereo-imaging]([cpp][stereo-cpp], [py][stereo-py])
 - [Week 11: Two-view geometry][two-view]([cpp][two-view-cpp], [py][two-view-py])
+- [Week 12: Multiple-view geometry][multi-view]([exercises][multiview-excericises])
 
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
@@ -30,6 +31,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [single-view-geometry]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/09-single-view-geometry/
 [stereo-imaging]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/10-stereo-imaging/
 [two-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/11-two-view-geometry/
+[multi-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/12-multiple-view-geometry/index.html
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
@@ -50,6 +52,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [stereo-py]: https://github.com/tek5030/lab-stereo-py
 [two-view-cpp]: https://github.com/tek5030/lab-simple-vo
 [two-view-py]: https://github.com/tek5030/lab-simple-vo-py
+[multiview-excericises]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/12-multiple-view-geometry/index.html
 
 
 <!--
