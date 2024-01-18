@@ -4,9 +4,11 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - Course pages: https://www.uio.no/studier/emner/matnat/its/TEK5030/index-eng.html
 - Resource pages: https://tek5030.github.io/
 
-### Lectures and labs, spring 2023
+### Lectures and labs, spring 2024
 
 - [Week 1: Introduction][introduction] ([cpp][intro-lab], [py][intro-lab])
+
+<!--
 - [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
 - [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
@@ -18,20 +20,20 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 10: Stereo imaging][stereo-imaging]([cpp][stereo-cpp], [py][stereo-py])
 - [Week 11: Two-view geometry][two-view]([cpp][two-view-cpp], [py][two-view-py])
 - [Week 12: Multiple-view geometry][multi-view]([exercises][multiview-excericises])
+-->
 
-
-[introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/01-introduction/index.html
-[image-formation]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/02-image-formation/index.html
-[image-processing]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/03-image-processing/index.html
-[image-analysis]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/04-image-analysis/index.html
-[deep-learning]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/05-deep-learning/index.html
-[feature-detection]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/06-feature-detection/index.html
-[feature-matching]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/07-feature-matching/index.html
-[pose-in-practice]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/08-3d-pose-and-lie-theory-in-practice/index.html
-[single-view-geometry]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/09-single-view-geometry/
-[stereo-imaging]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/10-stereo-imaging/
-[two-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/11-two-view-geometry/
-[multi-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/12-multiple-view-geometry/index.html
+[introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/01-introduction/index.html
+[image-formation]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/02-image-formation/index.html
+[image-processing]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/03-image-processing/index.html
+[image-analysis]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/04-image-analysis/index.html
+[deep-learning]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/05-deep-learning/index.html
+[feature-detection]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/06-feature-detection/index.html
+[feature-matching]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/07-feature-matching/index.html
+[pose-in-practice]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/08-3d-pose-and-lie-theory-in-practice/index.html
+[single-view-geometry]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/09-single-view-geometry/
+[stereo-imaging]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/10-stereo-imaging/
+[two-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/11-two-view-geometry/
+[multi-view]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/12-multiple-view-geometry/index.html
 
 [intro-lab]: https://github.com/tek5030/lab-intro
 [formation-lab]: https://github.com/tek5030/lab-transformations
@@ -52,7 +54,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [stereo-py]: https://github.com/tek5030/lab-stereo-py
 [two-view-cpp]: https://github.com/tek5030/lab-simple-vo
 [two-view-py]: https://github.com/tek5030/lab-simple-vo-py
-[multiview-excericises]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v23/lectures/12-multiple-view-geometry/index.html
+[multiview-excericises]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/12-multiple-view-geometry/index.html
 
 
 <!--
