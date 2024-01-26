@@ -7,6 +7,7 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 ### Lectures and labs, spring 2024
 
 - [Week 1: Introduction][introduction] ([cpp][intro-lab], [py][intro-lab])
+- [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
 
 <!--
 - [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
