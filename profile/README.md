@@ -9,9 +9,9 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 1: Introduction][introduction] ([cpp][intro-lab], [py][intro-lab])
 - [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
 - [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
+- [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 
 <!--
-- [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 - [Week 5: Deep learning][deep-learning] ([common][deep-learning-lab])
 - [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
 - [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
