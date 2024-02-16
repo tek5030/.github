@@ -10,9 +10,9 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
 - [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
+- [Week 5: Deep learning][deep-learning] ([dnn applications][deep-learning-applications], [building and training dnns][deep-learning-with-torch])
 
 <!--
-- [Week 5: Deep learning][deep-learning] ([common][deep-learning-lab])
 - [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
 - [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
@@ -41,7 +41,8 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 [processing-py]: https://github.com/tek5030/lab-image-blending-py
 [analysis-cpp]: https://github.com/tek5030/lab-segmentation
 [analysis-py]: https://github.com/tek5030/lab-segmentation-py
-[deep-learning-lab]: https://github.com/sigmunjr/TEK5030_deep_learning_torch
+[deep-learning-applications]: https://github.com/tek5030/lab-dnn
+[deep-learning-with-torch]: https://github.com/sigmunjr/TEK5030_deep_learning_torch
 [features-cpp]: https://github.com/tek5030/lab-corners
 [features-py]: https://github.com/tek5030/lab-corners-py
 [matching-cpp]: https://github.com/tek5030/lab-mosaic
