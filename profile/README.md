@@ -12,9 +12,9 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 - [Week 5: Deep learning][deep-learning] ([dnn applications][deep-learning-applications])
 - [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
+- [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 
 <!--
-- [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
 - [Week 9: Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
 - [Week 10: Stereo imaging][stereo-imaging]([cpp][stereo-cpp], [py][stereo-py])
