@@ -11,15 +11,15 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
 - [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
 - [Week 5: Deep learning][deep-learning] ([dnn applications][deep-learning-applications])
-- [Week 6: Feature detection][feature-detection]([cpp][features-cpp], [py][features-py])
-- [Week 7: Feature matching][feature-matching]([cpp][matching-cpp], [py][matching-py])
+- [Week 6: Feature detection][feature-detection] ([cpp][features-cpp], [py][features-py])
+- [Week 7: Feature matching][feature-matching] ([cpp][matching-cpp], [py][matching-py])
+- [Week 8: 3D pose and Lie theory in practice][pose-in-practice] ([py][pose-py]) <!-- [cpp][pose-cpp],  -->
 
 <!--
-- [Week 8: 3D pose and Lie theory in practice][pose-in-practice]([cpp][pose-cpp], [py][pose-py])
-- [Week 9: Single-view geometry][single-view-geometry]([cpp][single-view-cpp], [py][single-view-py])
-- [Week 10: Stereo imaging][stereo-imaging]([cpp][stereo-cpp], [py][stereo-py])
-- [Week 11: Two-view geometry][two-view]([cpp][two-view-cpp], [py][two-view-py])
-- [Week 12: Multiple-view geometry][multi-view]([exercises][multiview-excericises])
+- [Week 9: Single-view geometry][single-view-geometry] ([cpp][single-view-cpp], [py][single-view-py])
+- [Week 10: Stereo imaging][stereo-imaging] ([cpp][stereo-cpp], [py][stereo-py])
+- [Week 11: Two-view geometry][two-view] ([cpp][two-view-cpp], [py][two-view-py])
+- [Week 12: Multiple-view geometry][multi-view] ([exercises][multiview-excericises])
 -->
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/01-introduction/index.html
