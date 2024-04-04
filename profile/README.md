@@ -16,9 +16,9 @@ Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course
 - [Week 8: 3D pose and Lie theory in practice][pose-in-practice] ([cpp][pose-cpp], [py][pose-py])
 - [Week 9: Single-view geometry][single-view-geometry] ([cpp][single-view-cpp], [py][single-view-py])
 - [Week 10: Stereo imaging][stereo-imaging] ([py][stereo-py]) <!-- [cpp][stereo-cpp],  -->
+- [Week 11: Two-view geometry][two-view] ([py][two-view-py]) <!-- [cpp][two-view-cpp], -->
 
 <!--
-- [Week 11: Two-view geometry][two-view] ([cpp][two-view-cpp], [py][two-view-py])
 - [Week 12: Multiple-view geometry][multi-view] ([exercises][multiview-excericises])
 -->
 
