@@ -2,25 +2,24 @@
 Hi there 👋 Welcome to the GitHub pages for TEK5030 - a computer vision course at ITS/UiO
 
 - Course pages: https://www.uio.no/studier/emner/matnat/its/TEK5030/index-eng.html
+- Schedule/Timeplan: https://www.uio.no/studier/emner/matnat/its/TEK5030/v25/timeplan/index.html
 - Resource pages: https://tek5030.github.io/
 
-### Lectures and labs, spring 2024
+### Lectures and labs, spring 2025
 
-- [Week 1: Introduction][introduction] ([cpp][intro-lab], [py][intro-lab])
-- [Week 2: Image formation][image-formation] ([cpp][formation-lab], [py][formation-lab])
-- [Week 3: Image processing][image-processing] ([cpp][processing-cpp], [py][processing-py])
-- [Week 4: Image analysis][image-analysis] ([cpp][analysis-cpp], [py][analysis-py])
-- [Week 5: Deep learning][deep-learning] ([dnn applications][deep-learning-applications])
-- [Week 6: Feature detection][feature-detection] ([cpp][features-cpp], [py][features-py])
-- [Week 7: Feature matching][feature-matching] ([cpp][matching-cpp], [py][matching-py])
-- [Week 8: 3D pose and Lie theory in practice][pose-in-practice] ([cpp][pose-cpp], [py][pose-py])
-- [Week 9: Single-view geometry][single-view-geometry] ([cpp][single-view-cpp], [py][single-view-py])
-- [Week 10: Stereo imaging][stereo-imaging] ([py][stereo-py]) <!-- [cpp][stereo-cpp],  -->
-- [Week 11: Two-view geometry][two-view] ([py][two-view-py]) <!-- [cpp][two-view-cpp], -->
-
-<!--
-- [Week 12: Multiple-view geometry][multi-view] ([exercises][multiview-excericises])
--->
+- Week 1: Introduction ([cpp][intro-lab], [py][intro-lab])
+- Week 2: Image formation ([cpp][formation-lab], [py][formation-lab])
+- Week 3: Image processing ([cpp][processing-cpp], [py][processing-py])
+- Week 4: Image analysis ([cpp][analysis-cpp], [py][analysis-py])
+- Week 5: Deep learning ([dnn applications][deep-learning-applications])
+- Week 6: Feature detection ([cpp][features-cpp], [py][features-py])
+- Week 7: Feature matching ([cpp][matching-cpp], [py][matching-py])
+- Week 8: 3D pose and Lie theory in practice ([cpp][pose-cpp], [py][pose-py])
+- Week 9: Single-view geometry ([cpp][single-view-cpp], [py][single-view-py])
+- Week 10: Stereo imaging ([py][stereo-py]) <!-- [cpp][stereo-cpp],  -->
+- Week 11: Two-view geometry ([py][two-view-py]) <!-- [cpp][two-view-cpp], -->
+- Week 12: Multiple-view geometry ([exercises][multiview-excericises])
+- Week 13: Visual SLAM
 
 [introduction]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/01-introduction/index.html
 [image-formation]: https://www.uio.no/studier/emner/matnat/its/TEK5030/v24/lectures/02-image-formation/index.html
